@@ -15,6 +15,10 @@
 		E48C9DFC238699A80034A6A4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E48C9DFA238699A80034A6A4 /* LaunchScreen.storyboard */; };
 		E48C9E07238699A80034A6A4 /* vocabookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48C9E06238699A80034A6A4 /* vocabookTests.swift */; };
 		E48C9E12238699A90034A6A4 /* vocabookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E48C9E11238699A90034A6A4 /* vocabookUITests.swift */; };
+		E48C9E2023869AC10034A6A4 /* vocabook in Resources */ = {isa = PBXBuildFile; fileRef = E48C9E1F23869AC10034A6A4 /* vocabook */; };
+		E48C9E2223869D100034A6A4 /* vocabook in Resources */ = {isa = PBXBuildFile; fileRef = E48C9E2123869D100034A6A4 /* vocabook */; };
+		E48C9E2323869D100034A6A4 /* vocabook in Resources */ = {isa = PBXBuildFile; fileRef = E48C9E2123869D100034A6A4 /* vocabook */; };
+		E48C9E2423869D100034A6A4 /* vocabook in Resources */ = {isa = PBXBuildFile; fileRef = E48C9E2123869D100034A6A4 /* vocabook */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +53,8 @@
 		E48C9E0D238699A90034A6A4 /* vocabookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = vocabookUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E48C9E11238699A90034A6A4 /* vocabookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vocabookUITests.swift; sourceTree = "<group>"; };
 		E48C9E13238699A90034A6A4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E48C9E1F23869AC10034A6A4 /* vocabook */ = {isa = PBXFileReference; lastKnownFileType = folder; name = vocabook; sourceTree = "<group>"; };
+		E48C9E2123869D100034A6A4 /* vocabook */ = {isa = PBXFileReference; lastKnownFileType = folder; name = vocabook; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +86,8 @@
 			isa = PBXGroup;
 			children = (
 				E48C9DEE238699A30034A6A4 /* vocabook */,
+				E48C9E1F23869AC10034A6A4 /* vocabook */,
+				E48C9E2123869D100034A6A4 /* vocabook */,
 				E48C9E05238699A80034A6A4 /* vocabookTests */,
 				E48C9E10238699A90034A6A4 /* vocabookUITests */,
 				E48C9DED238699A30034A6A4 /* Products */,
@@ -232,7 +240,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E48C9E2023869AC10034A6A4 /* vocabook in Resources */,
 				E48C9DFC238699A80034A6A4 /* LaunchScreen.storyboard in Resources */,
+				E48C9E2223869D100034A6A4 /* vocabook in Resources */,
 				E48C9DF9238699A80034A6A4 /* Assets.xcassets in Resources */,
 				E48C9DF7238699A30034A6A4 /* Main.storyboard in Resources */,
 			);
@@ -242,6 +252,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E48C9E2323869D100034A6A4 /* vocabook in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,6 +260,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E48C9E2423869D100034A6A4 /* vocabook in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
